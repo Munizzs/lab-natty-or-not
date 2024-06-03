@@ -52,7 +52,7 @@ Redes sociais:
 Facebook: facebook.com/dreamdestinationsbr
 Instagram: instagram.com/dreamdestinationsbr
 ```
-[Ia_Image]()
+![Ia_Image](Ia_Image.jpg)
 ```
 Informações adicionais:
 Site: www.dreamdestinations.com.br
