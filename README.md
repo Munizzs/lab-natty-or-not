@@ -11,21 +11,24 @@
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# Dream Destinations
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+    Foi criado um marketing para uma agencia de viagem, a IA elaborou um texto convidativo e informativo, adaptado ao público-alvo da Dream Destinations, com frases de impacto e uma linguagem envolvente, também criou uma imagem de uma paisagem e a logo da Dream Destinations.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-Google AI Studio e craiyon.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+    Utilizando o Google AI Studio pedi para criar um marketing de uma agencia de viagem, falei para criar um nome para a agencia e por fim utilizando o craiyon pedi para criar uma logo e uma imagem com pessoas em uma paisagem.
 
 ## 🚀 Resultados
 
 Descubra o Mundo com a Dream Destinations!
+
+<img src="logo_Ia.png" alt="Logo Ia" width="150" height="150">
 
 Sonhe alto, viaje longe! A Dream Destinations é a sua porta de entrada para aventuras inesquecíveis.
 
@@ -51,23 +54,17 @@ Redes sociais:
 
 Facebook: facebook.com/dreamdestinationsbr
 Instagram: instagram.com/dreamdestinationsbr
-```
-![Ia_Image](Ia_Image.jpg)
-```
+
+<img src="Ia_Image.jpg" alt="Imagem Ia" width="300" height="300">
+
 Informações adicionais:
 Site: www.dreamdestinations.com.br
 Telefone: (11) 9999-9999
 E-mail: contato@dreamdestinations.com.br
-```
+
 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
